@@ -32,7 +32,7 @@ gcloud init
 gsutil cors set cors.json gs://xxxx.appspot.com 
 ```
 
-4. Make sure your setting
+4. Make sure your setting is right
 ```
 gsutil cors get gs://xxxx.appspot.com 
 ```
