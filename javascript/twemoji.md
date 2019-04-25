@@ -1,4 +1,4 @@
-I am curious in [Twemoji](https://twemoji.twitter.com/) and just tried it!  
+I am curious in [Twemoji](https://twemoji.twitter.com/) and just tried it out!  
 It's so easy!!
 
 ### Code
