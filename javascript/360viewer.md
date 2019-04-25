@@ -1,10 +1,9 @@
 # Create a 360 Panorama viewer
 
-I use [Panolens](https://pchen66.github.io/Panolens/) for this.  
+I use [Pannellum](https://pannellum.org) for this.  
 It's so easy to make it :thumbsup:
 
-<img width="350" alt="360viewer" src="https://user-images.githubusercontent.com/980588/53295384-85c5bd00-383d-11e9-839d-4b3ec3a7e8f8.png">
-
+## Code
 ```html
 <!DOCTYPE HTML>
 <html>
@@ -35,3 +34,6 @@ pannellum.viewer('panorama', {
 </body>
 </html>
 ```
+
+## Output
+<img width="350" alt="360viewer" src="https://user-images.githubusercontent.com/980588/53295384-85c5bd00-383d-11e9-839d-4b3ec3a7e8f8.png">
